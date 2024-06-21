@@ -1,4 +1,4 @@
-# Muhammad Abid - Principal Software Engineer
+# Muhammad Abid - Fullstack Engineer
 
 Email: [mabidiqbalk@gmail.com](mailto:mabidiqbalk@gmail.com)  
 Phone: +923327233828  
