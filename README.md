@@ -55,7 +55,7 @@ Here are some of the notable projects I have worked on:
 - [**Ascential Edge**](https://www.ascentialedge.com/) - A service for optimizing online performance for brands.
 - [**The Tie**](https://www.thetie.io/) - Information services for the digital asset industry.
 - [**RosyGreenWool**](https://rosygreenwool.com/) - An online marketplace specializes in producing high-quality, organic Merino wool.
-- [**VeloPro**]((https://www.velopro.bike/)) - An online platform that offers personalized, adaptive cycling training programs.
+- [**VeloPro**](https://www.velopro.bike/) - An online platform that offers personalized, adaptive cycling training programs.
 
 ---
 
