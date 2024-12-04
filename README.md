@@ -34,11 +34,11 @@ I am a Principal Software Engineer with over 8+ years of experience specializing
 - **RSpec, Capybara, Selenium, Cucumber**
 
 ### Project Management
-- **JIRA
-- **Trello
-- **Asana
-- **Basecamp
-- **Notion
+- JIRA
+- Trello
+- Asana
+- Basecamp
+- Notion
   
 ### Others
 - **FHIR Resources**
