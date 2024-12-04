@@ -33,6 +33,13 @@ I am a Principal Software Engineer with over 8+ years of experience specializing
 - **Apache Cordova**
 - **RSpec, Capybara, Selenium, Cucumber**
 
+### Project Management
+- **JIRA
+- **Trello
+- **Asana
+- **Basecamp
+- **Notion
+  
 ### Others
 - **FHIR Resources**
 - **SOAP, XML, JSON**
