@@ -51,6 +51,10 @@ Here are some of the notable projects I have worked on:
 
 - [**Study Abroad Apartments**](https://www.studyabroadapartments.com) - A platform for students to find apartments abroad.
 - [**Via TRM**](https://www.viatrm.com/) - Software to help universities send more students abroad.
+- [**Ascential Edge**](https://www.ascentialedge.com/) - A service for optimizing online performance for brands.
+- [**The Tie**](https://www.thetie.io/) - Information services for the digital asset industry.
+- [**RosyGreenWool**](https://rosygreenwool.com/) - An online marketplace specializes in producing high-quality, organic Merino wool.
+- [**VeloPro**](https://www.velopro.bike/) - An online platform that offers personalized, adaptive cycling training programs.
 - [**Concept Health**](https://concepthealth.co.uk/) - A healthcare platform.
 - [**Enriched Schools**](https://enrichedschools.com/) - A platform connecting schools with substitute teachers.
 - [**CE Files**](https://cefiles.com/) - An online register of CE marked products.
@@ -59,10 +63,6 @@ Here are some of the notable projects I have worked on:
 - [**Acast**](https://acast.sa/) - Connecting artists with production houses.
 - [**Honest Policy**](https://honestpolicy.com/) - A platform for comparing insurance policies.
 - [**Australian Genomics**](https://www.australiangenomics.org.au/) - A genomics research platform.
-- [**Ascential Edge**](https://www.ascentialedge.com/) - A service for optimizing online performance for brands.
-- [**The Tie**](https://www.thetie.io/) - Information services for the digital asset industry.
-- [**RosyGreenWool**](https://rosygreenwool.com/) - An online marketplace specializes in producing high-quality, organic Merino wool.
-- [**VeloPro**](https://www.velopro.bike/) - An online platform that offers personalized, adaptive cycling training programs.
 
 ---
 
