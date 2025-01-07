@@ -7,7 +7,7 @@ Skype: abid.iqbal78
 ---
 
 ## Summary
-I am a Principal Software Engineer with over 8+ years of experience specializing in Ruby on Rails and modern web technologies. I have a strong background in building highly customized SaaS platforms and have worked on numerous projects for startups in the Bay Area and Europe.
+I am a Principal Software Engineer with over 10+ years of experience specializing in Ruby on Rails and modern web technologies. I have a strong background in building highly customized SaaS platforms and have worked on numerous projects for startups in the Bay Area and Europe.
 
 ---
 
@@ -18,18 +18,19 @@ I am a Principal Software Engineer with over 8+ years of experience specializing
 ### Backend Development
 - **Ruby on Rails**
 - **NodeJS, Express**
+- **Python**
 - **REST APIs, GraphQL**
-- **PostgreSQL, MySQL, MS SQL Server, MongoDB**
+- **PostgreSQL, MySQL, MS SQL Server, MongoDB, Elastic Search, Redis**
 
 ### Frontend Development
 - **ReactJS, Redux**
-- **VueJS 3, StimulusJS, AngularJS**
+- **VueJS 3, StimulusJS, Angular**
 - **jQuery, CoffeeScript**
 - **HTML5, CSS3, Bootstrap5, Foundation, TailwindCSS**
 
 ### DevOps & Tools
 - **Git, GitHub, Heroku**
-- **Amazon EC2, CloudFront**
+- **Amazon EC2, CloudFront, AWS Lambda**
 - **Apache Cordova**
 - **RSpec, Capybara, Selenium, Cucumber**
 
